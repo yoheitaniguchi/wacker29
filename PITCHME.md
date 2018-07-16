@@ -1,4 +1,38 @@
-# Wacker#29 Google Colaboratoryで覚える初めての（？）機械学習（Deep Learning）
+# Wacker#29
+
+---
+
+<div align="left">
+  <small>
+  Wacker #26　2018/07/16(月) <br>
+  </small>
+</div>
+
+<br>
+
+### Wacker#29 Google Colaboratoryで覚える初めての（？）機械学習（Deep Learning）
+
+<div>
+  ![画像](./img/top.png)
+</div>
+
+<br>
+
+<div align="right"> Yohei Taniguchi </div>
+
+<div align="right">
+  <small>
+
+    [Wacker](http://wacker.io/)
+
+  </small>
+</div>
+
+<div align="right">
+
+  [![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0")](http://creativecommons.org/licenses/by-sa/4.0/)
+
+</div>
 
 ---
 
@@ -21,7 +55,8 @@
 
 参照：人工知能学会 What's AIより
 
---
+---
+
 
 ### 機械学習の技術マップと・Deep Learning立ち位置
 
@@ -31,7 +66,8 @@
 1. 教師あり
 1. 強化学習
 
---
+---
+
 
 ### 教師なし
 
@@ -42,7 +78,8 @@
 
 ![K平均法](img/kmeans.png)
 
---
+---
+
 
 ### 教師あり
 
@@ -80,11 +117,15 @@
 - [TensorFlow](https://www.tensorflow.org/?hl=ja):Google,Python
 - [Keras](https://keras.io/ja/):Python
 
+---
+
 #### その他、主なフレームワーク
 
 - [CNTK](https://docs.microsoft.com/ja-jp/cognitive-toolkit/):MS,C++,Python
 - [Chainer](https://chainer.org/):Preferred Networks,Python
 - [Pytorch](https://pytorch.org/):FB + NVIDIA,Python,ChainerのForkでCaffe2とマージ
+
+---
 
 #### 主なデータセット
 
@@ -93,12 +134,15 @@
 - [datamarket](https://datamarket.com/data/)
 - スクレイピング
 
--
+---
+
 ## チュートリアル：Cats vs. Dogs
 
 ### 説明
 
 https://www.kaggle.com/c/skoltech-cats-vs-dogs/data
+
+---
 
 ## チュートリアル：MNIST
 
@@ -106,8 +150,9 @@ https://www.kaggle.com/c/skoltech-cats-vs-dogs/data
 - 60,000点の訓練データ(mnist.train)と10,000点のテストデータ(minist.test)
 
 
-## 参考情報
+---
 
+## 参考情報
 
 
 - DataSet
