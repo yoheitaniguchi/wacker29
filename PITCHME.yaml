@@ -1,16 +1,19 @@
 # Layout
-layout : center-right
+layout : top-left
+footnote : "Wacker#29 Taniguchi"
 
 # Look-and-Feel
-logo : assets/images/logo.png
 theme : night
-theme-override : assets/css/PITCHME.css
 highlight : ir-black
 
 # Behavior
-transition : none
+transition : fade
 published : true
 
 # Plugins
 charts : true
 mathjax : TeX-AMS_HTML-full
+
+
+
+
