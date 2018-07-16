@@ -1,19 +1,18 @@
-# Layout
-layout : top-left
-footnote : "Wacker#29 Taniguchi"
-
-# Look-and-Feel
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
 theme : night
-highlight : ir-black
-
-# Behavior
-transition : fade
+theme-override : assets/css/PITCHME.css
+# theme-override : assets/css/PITCHME.codemax.css
+highlight : atom-one-dark
+logo : assets/image/logo.png
+transition : none
 published : true
 
-# Plugins
-charts : true
-mathjax : TeX-AMS_HTML-full
+# Layout
 
-
-
+footnote : "Wacker#29 Taniguchi"
 
