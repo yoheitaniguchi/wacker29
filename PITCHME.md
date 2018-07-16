@@ -70,9 +70,9 @@
 未知のデータや新たなデータ構造の発見を行う
 
 - K平均法
-- https://colab.research.google.com/drive/1yLfjHo0axYXLqfI4tEIqWK4_qu3z_lVU
 
 <div>![K平均法](img/kmeans.png)</div>
+
 ---
 
 ### 教師あり <hr>
@@ -172,7 +172,9 @@ https://www.kaggle.com/c/skoltech-cats-vs-dogs/data
 
 ---
 
-### Taitanic <hr>
+### Taitanic生存者予測 <hr>
+
+- [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 ---
 
@@ -185,9 +187,3 @@ https://www.kaggle.com/c/skoltech-cats-vs-dogs/data
 
 - 人工知能学会 What's AI : [http://www.ai-gakkai.or.jp/whatsai/AIresearch.html](http://www.ai-gakkai.or.jp/whatsai/AIresearch.html)
 - [kaggle](https://www.codexa.net/what-is-kaggle/)
-
-
-- https://ai-kenkyujo.com/2017/10/18/free-dataset/
-- https://www.slideshare.net/masa_s/gan-83975514
-- https://elix-tech.github.io/ja/2017/02/06/gan.html
-
