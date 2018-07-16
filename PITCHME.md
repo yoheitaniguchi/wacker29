@@ -72,8 +72,7 @@
 - K平均法
 - https://colab.research.google.com/drive/1yLfjHo0axYXLqfI4tEIqWK4_qu3z_lVU
 
-![K平均法](img/kmeans.png)
-
+<div>![K平均法](img/kmeans.png)</div>
 ---
 
 ### 教師あり <hr>
@@ -104,17 +103,19 @@
 
 ---
 
-### CNN（畳み込みニューラルネット）1/2 <hr>
+### CNN（畳み込みニューラルネット）1/3 <hr>
 
 ![](img/convolve.png)
+
+---
+
+### CNN（畳み込みニューラルネット）2/3 <hr>
 
 ![](img/lena.jpg)
 
 ---
 
-### CNN（畳み込みニューラルネット）2/2 <hr>
-
-![](img/pool.png)
+### CNN（畳み込みニューラルネット）3/3 <hr>
 
 ![](img/CNN.jpg)
 
@@ -122,11 +123,10 @@
 
 ### RNN（再帰型ニューラルネット）<hr>
 
+文字入力の候補を予測して出す
+
 ![](img/SimpleRNN01.jpg)
 
-- ニューロンとパーセプトロン
-- 活性化関数
-- 学習則（Learning Rulu)
 
 ---
 
