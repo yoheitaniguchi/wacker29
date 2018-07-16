@@ -71,7 +71,7 @@
 
 - K平均法
 
-<div>![K平均法](img/kmeans.png)</div>
+![K平均法](img/kmeans.png)
 
 ---
 
