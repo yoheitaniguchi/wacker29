@@ -13,7 +13,7 @@
 ### Google Colaboratoryで覚える初めての（？）機械学習（Deep Learning）
 
 <div>
-  ![画像](./img/top.png)
+  ![画像](./img/top.jpg)
 </div>
 
 <br>
@@ -80,11 +80,10 @@
 
 事前の学習データを元に分類、推測を行う手法
 
-- 線形回帰
 - 決定木、ランダムフォレスト
 - パーセプトロン、ニューラルネットワーク
 
-![](img/teacher.png)
+![教師あり](img/teacher.png)
 
 ---
 
@@ -99,7 +98,31 @@
 
 ---
 
-### ニューラルネットワーク <hr>
+### MLP（多層パーセプトロン）<hr>
+
+![](img/MLP.png)
+
+---
+
+### CNN（畳み込みニューラルネット）1/2 <hr>
+
+![](img/convolve.png)
+
+![](img/lena.jpg)
+
+---
+
+### CNN（畳み込みニューラルネット）2/2 <hr>
+
+![](img/pool.png)
+
+![](img/CNN.jpg)
+
+---
+
+### RNN（再帰型ニューラルネット）<hr>
+
+![](img/SimpleRNN01.jpg)
 
 - ニューロンとパーセプトロン
 - 活性化関数
