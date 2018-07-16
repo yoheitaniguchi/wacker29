@@ -1,6 +1,16 @@
-theme : white
-footnote : "© 2018 Wacker Taniguci"
-highlight : monokai
-transition : fade
+# Layout
+layout : center-right
+
+# Look-and-Feel
+logo : assets/images/logo.png
+theme : night
+theme-override : assets/css/PITCHME.css
+highlight : ir-black
+
+# Behavior
+transition : none
+published : true
+
+# Plugins
 charts : true
-background : 
+mathjax : TeX-AMS_HTML-full
